@@ -2,8 +2,8 @@
 
 > A Vue.js project
 
-- view a list of the top 30 stories on Hacker news
-- view the detail of the story and its comments
+- View a list of the top 30 stories on Hacker news
+- View the detail of the story and its comments
 
 ## Build Setup
 
